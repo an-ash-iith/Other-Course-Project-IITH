@@ -1,0 +1,1 @@
+This program prompts the user to input four key parameters: the year, month, latitude, and height above mean sea level. Using this data, it calculates and displays the monthly evaporation rates. The program leverages the Penman-Monteith equation, a widely recognized method for estimating evapotranspiration rates based on climatic and geographic factors.
